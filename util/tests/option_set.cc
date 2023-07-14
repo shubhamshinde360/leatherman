@@ -1,4 +1,4 @@
-#include <catch.hpp>
+#include <catch2/catch.hpp>
 #include <leatherman/util/option_set.hpp>
 
 using namespace std;

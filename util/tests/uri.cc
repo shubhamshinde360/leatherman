@@ -1,4 +1,4 @@
-#include <catch.hpp>
+#include <catch2/catch.hpp>
 #include <leatherman/util/uri.hpp>
 
 namespace lth_util = leatherman::util;

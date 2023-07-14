@@ -1,5 +1,6 @@
-#include <catch.hpp>
+#include <catch2/catch.hpp>
 #include <leatherman/util/strings.hpp>
+#include <set>
 
 using namespace std;
 using namespace leatherman::util;

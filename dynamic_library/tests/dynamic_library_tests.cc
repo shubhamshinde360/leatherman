@@ -1,4 +1,4 @@
-#include <catch.hpp>
+#include <catch2/catch.hpp>
 #include <leatherman/dynamic_library/dynamic_library.hpp>
 #include "fixtures.hpp"
 

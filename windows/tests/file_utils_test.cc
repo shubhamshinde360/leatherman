@@ -1,4 +1,4 @@
-#include <catch.hpp>
+#include <catch2/catch.hpp>
 #include <leatherman/windows/file_util.hpp>
 
 namespace leatherman { namespace windows { namespace file_util {

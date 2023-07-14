@@ -1,8 +1,9 @@
-#include <catch.hpp>
+#include <catch2/catch.hpp>
 #include <leatherman/file_util/file.hpp>
 #include <leatherman/file_util/directory.hpp>
 #include "fixtures.hpp"
 #include <boost/filesystem.hpp>
+#include <set>
 
 using namespace leatherman::file_util;
 

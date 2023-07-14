@@ -1,4 +1,4 @@
-#include <catch.hpp>
+#include <catch2/catch.hpp>
 #include <leatherman/file_util/file.hpp>
 #include "fixtures.hpp"
 #include <boost/filesystem.hpp>

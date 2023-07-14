@@ -2,7 +2,7 @@
  * @file Utilities for testing logging
  */
 #pragma once
-#include <catch.hpp>
+#include <catch2/catch.hpp>
 #include <leatherman/logging/logging.hpp>
 #include <boost/regex.hpp>
 #include <boost/iterator/zip_iterator.hpp>

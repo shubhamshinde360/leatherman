@@ -2,7 +2,7 @@
 #undef LEATHERMAN_I18N
 #endif
 
-#include <catch.hpp>
+#include <catch2/catch.hpp>
 #include <leatherman/locale/locale.hpp>
 
 using namespace std;

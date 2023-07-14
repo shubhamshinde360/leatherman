@@ -1,4 +1,4 @@
-#include <catch.hpp>
+#include <catch2/catch.hpp>
 #include "mock_curl.hpp"
 #include <leatherman/curl/client.hpp>
 #include <leatherman/curl/request.hpp>

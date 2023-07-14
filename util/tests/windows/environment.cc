@@ -1,4 +1,4 @@
-#include <catch.hpp>
+#include <catch2/catch.hpp>
 #include <leatherman/util/environment.hpp>
 #include <leatherman/windows/windows.hpp>
 #include <unistd.h>

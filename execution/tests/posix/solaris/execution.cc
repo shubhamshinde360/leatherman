@@ -1,4 +1,4 @@
-#include <catch.hpp>
+#include <catch2/catch.hpp>
 #include <leatherman/execution/execution.hpp>
 #include <leatherman/util/strings.hpp>
 #include <boost/algorithm/string.hpp>

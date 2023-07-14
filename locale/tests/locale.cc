@@ -5,7 +5,7 @@
 #undef PROJECT_NAME
 #define PROJECT_NAME "leatherman_locale"
 
-#include <catch.hpp>
+#include <catch2/catch.hpp>
 #include <leatherman/locale/locale.hpp>
 
 using namespace std;
